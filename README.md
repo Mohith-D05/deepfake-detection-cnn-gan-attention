@@ -1,6 +1,6 @@
 # Deepfake Detection using CNN-GAN-Attention
 
-## 📌 Project Overview
+##  Project Overview
 
 This project proposes a hybrid deep learning model for detecting deepfake facial images using:
 
@@ -8,14 +8,14 @@ This project proposes a hybrid deep learning model for detecting deepfake facial
 * Generative Adversarial Networks (GAN)
 * Spatial Attention Mechanism
 
-## 🚀 Features
+##  Features
 
 * High accuracy deepfake detection (92.6%)
 * Attention-based interpretability
 * GAN-based data augmentation
 * Cross-dataset evaluation
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 data/        -> sample data
@@ -24,7 +24,7 @@ results/     -> output images and graphs
 report.pdf   -> IEEE paper
 ```
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone repository
 
@@ -45,17 +45,17 @@ pip install -r requirements.txt
 python src/train.py
 ```
 
-## 📊 Results
+##  Results
 
 * Accuracy: 92.6%
 * AUC: 98.9%
 
-## 📚 Datasets Used
+##  Datasets Used
 
 * FaceForensics++
 * Celeb-DF v2
 
-## 👨‍💻 Authors
+##  Authors
 
 * Mohith D
 * Mohammed Rayyan Ul Asgar
